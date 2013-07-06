@@ -27,9 +27,9 @@
   </licenses>
 
   <scm>
-    <connection>TBD</connection>
-    <developerConnection>TBD</developerConnection>
-    <url>TBD</url>
+    <connection>scm:git:git@github.com:ArjanKranenburg/testium_surefire_plugin.git</connection>
+    <developerConnection>scm:git:git@github.com:ArjanKranenburg/testium_surefire_plugin.git</developerConnection>
+    <url>git@github.com:ArjanKranenburg/testium_surefire_plugin.git</url>
   </scm>
 
   <developers>
